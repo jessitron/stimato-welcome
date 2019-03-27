@@ -1,0 +1,11 @@
+{
+  "name": "@stimato/welcome",
+  "version": "1.0.0",
+  "description": "Greet visitors to the legit pretend democracy of Stimato",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mastoti Tomasit",
+  "license": "ISC"
+}
