@@ -1,4 +1,6 @@
 FROM node:11.12
 COPY . /app
 EXPOSE 3001
+ENV PORT=3001
+WORKDIR /app
 CMD npm start
